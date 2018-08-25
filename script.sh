@@ -2,4 +2,6 @@
 
 export PATH=$PATH:/usr/local/bin
 
-aptible
+aptible login --email=petr@forhims.com --password=1983Fila1979
+
+aptible db:tunnel postgres-prod
