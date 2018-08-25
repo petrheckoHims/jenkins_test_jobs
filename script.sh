@@ -1,4 +1,5 @@
 #!/bin/bash
+screen
 
 export PATH=$PATH:/usr/local/bin
 
